@@ -4,6 +4,8 @@
 
 [How to make GIFs with FFMPEG](https://engineering.giphy.com/how-to-make-gifs-with-ffmpeg/) (published March 29, 2018) has some neat tricks on FFmpeg.
 
+[How to Set up a Node.js Express Server for React](https://www.section.io/engineering-education/how-to-setup-nodejs-express-for-react/) (April 15, 2021) is the quick start up guide to set up React client and Express Server.
+
 # React Client
 
 To start the server, do the following at root directory
